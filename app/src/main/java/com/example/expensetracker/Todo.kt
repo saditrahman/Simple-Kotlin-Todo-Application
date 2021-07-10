@@ -1,4 +1,4 @@
-package com.example.todolist
+package com.example.expensetracker
 
 data class Todo(
     val title: String,

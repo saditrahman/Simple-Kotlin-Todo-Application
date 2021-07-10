@@ -1,4 +1,4 @@
-package com.example.todolist
+package com.example.expensetracker
 
 import org.junit.Test
 
